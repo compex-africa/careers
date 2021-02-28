@@ -1,5 +1,5 @@
 
-## Position: Junior Frontend Engineer - React Native
+## Position: Junior Frontend Engineer - React/Native
 
 ### The Role
 As a member of the Application Development Team at SFS, you will have the opportunity to contribute to projects and maintain applications that are critical to the mission of SFS. You will be part of the team that represents the company in application development and trainings. The team also manages and oversees the usage and creation of software applications within the company and ensures that our internal and external customers are satisfied.
